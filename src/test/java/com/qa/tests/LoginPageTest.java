@@ -8,5 +8,6 @@ public class LoginPageTest {
 	public void loginPageTest() {
 		System.out.println("We are in Login Page Test Class");
 	}
-
+	
+	
 }
