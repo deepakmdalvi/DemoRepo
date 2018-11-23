@@ -1,5 +1,7 @@
 package com.qa.libs;
 
+// This is a base class
+
 public class TestBase {
 	
 	public void testBase() {
